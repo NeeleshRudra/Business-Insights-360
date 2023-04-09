@@ -116,7 +116,7 @@ In Home view, all the views button will be available. User will land on specific
 - Marketing View
 - Supply chain View
 - Executive View
-- Products
+- Stakeholder Request
 - Support
 
 ## Overall Report
