@@ -45,10 +45,10 @@ I worked on this project by following the Codebasics PowerBi Course, Link to the
 
 ## DAX Functions
 
-- CALCULATE ()
-- DIVIDE ()
-- FILTER ()
-- SWITCH ()
+- CALCULATE ( )
+- DIVIDE ( )
+- FILTER ( )
+- SWITCH ( )
 
 
 ## Business related terms
